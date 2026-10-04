@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/flowfield-sh/.github/main/profile/flowfield-logo.png" alt="Flowfield" width="72" height="72">
-
 # A workspace for you and your coding agents.
 
 Plan, build, and refine software together. Flowfield keeps the work moving and the context intact.
