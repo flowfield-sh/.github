@@ -10,7 +10,7 @@ between sessions or keeping parallel work aligned with an evolving roadmap.
 **[Flowfield](https://github.com/flowfield-sh/flowfield-core)** is our open-source local
 workspace. Plan with a coordinating agent, run independent tasks in parallel, and bring
 progress, questions, feedback and results into a shared task feed. The work persists
-beyond individual agent sessions. Flowfield currently integrates with Codex.
+beyond individual agent sessions.
 
 **Flowfield Cloud** is in development: a future hosted workspace for shared collaboration.
 [Get updates](https://buttondown.com/flowfield).
