@@ -1,13 +1,13 @@
 # A workspace for you and your coding agents.
 
-Plan together. Let agents work. Review what ships.
+**[Flowfield](https://github.com/flowfield-sh/flowfield-core)** keeps agent work organized as projects grow. Plan through one coordinator conversation, keep context and results with each task, and handle questions and approvals in one Inbox.
 
-We're building a company around a simple conviction: as agents can implement more, human attention becomes the constraint. Developers should be able to shape a product through conversation, testing and revision without carrying context between sessions or keeping parallel work aligned by hand.
+- **Plan and refine.** Turn ideas, feedback and requests into focused tasks across your projects.
+- **Keep the work together.** Give workers shared guidance, run independent tasks in parallel and follow their progress and results.
+- **Decide what ships.** Review the code, try the result and approve it for your project. Find reports and files alongside the tasks that produced them.
 
-**[Flowfield](https://github.com/flowfield-sh/flowfield-core)** is our open-source local workspace. Plan with a Coordinator across related repositories, give Workers focused tasks and shared context, and have a Reviewer assess the results. Inbox brings you questions and decisions; code reaches your project only after your exact approval. Reports and files remain available alongside the work that produced them.
+Flowfield runs locally with your existing repositories and Codex, Claude Code or Pi. Choose agents independently for planning, implementation and review.
 
-Use Codex, Claude Code or Pi, with your native accounts and settings. Flowfield keeps the plan, context, work and reviewed outcomes together beyond individual agent sessions.
-
-**Flowfield Cloud** is in development: a future hosted workspace for shared collaboration. [Get updates](https://buttondown.com/flowfield).
+**Flowfield Cloud** is in development to bring this workflow to a hosted workspace. [Get updates](https://buttondown.com/flowfield).
 
 [Website](https://www.flowfield.sh) · [Documentation](https://docs.flowfield.sh/getting-started) · [hello@flowfield.sh](mailto:hello@flowfield.sh)
