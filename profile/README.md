@@ -1,4 +1,4 @@
-# A workspace for you and your coding agents.
+# Stop being the glue between your agents.
 
 **[Flowfield](https://github.com/flowfield-sh/flowfield-core)** keeps agent work organized as projects grow. Plan through one coordinator conversation, keep context and results with each task, and handle questions and approvals in one Inbox.
 
